@@ -50,3 +50,23 @@ Dodatkowe informacje:
 Strona internetowa laboratorium: URL
 Lista mailingowa: URL
 Forum dyskusyjne: URL
+
+
+Systemy wbudowane to systemy komputerowe zaprojektowane do wykonywania określonej funkcji w ramach większego urządzenia lub systemu. Często są używane w urządzeniach IoT (Internet rzeczy), ponieważ są małe, wydajne i niedrogie.
+
+Typowe systemy wbudowane IoT obejmują:
+
+* **Mikrokontrolery:** Są to małe, jednoprocentowe układy scalone (IC), które mogą być zaprogramowane do wykonywania określonych zadań. Często są używane w urządzeniach IoT, takich jak inteligentne termostaty i czujniki.
+[Image of Mikrokontrolery]
+* **Systemy na module (SOM):** Są to małe płytki drukowane zawierające procesor, pamięć i inne komponenty wymagane do uruchomienia systemu operacyjnego. SOM są często używane w urządzeniach IoT, takich jak inteligentne kamery i routery.
+[Image of Systemy na module (SOM)]
+* **Komputery jednopłytkowe (SBC):** Są to małe płytki drukowane zawierające wszystkie komponenty wymagane do uruchomienia kompletnego komputera. SBC są często używane w urządzeniach IoT, takich jak bramki IoT i serwery domowe.
+[Image of Komputery jednopłytkowe (SBC)]
+
+Systemy wbudowane IoT mogą być używane do różnych celów, m.in .:
+
+* **Zbieranie danych:** Systemy wbudowane mogą być używane do zbierania danych z czujników i innych urządzeń. Dane te mogą być następnie wykorzystywane do różnych celów, takich jak monitorowanie środowiska lub sterowanie maszynami.
+* **Sterowanie urządzeniami:** Systemy wbudowane mogą być używane do sterowania urządzeniami, takimi jak światła, silniki i zawory. Można to zrobić za pomocą interfejsu użytkownika, sieci lub innego urządzenia.
+* **Przetwarzanie danych:** Systemy wbudowane mogą być używane do przetwarzania danych zebranych z czujników lub innych urządzeń. Dane te mogą być następnie wykorzystywane do różnych celów, takich jak generowanie raportów lub podejmowanie decyzji.
+
+Systemy wbudowane są ważną częścią Internetu Rzeczy. Są małe, wydajne i niedrogie, co czyni je idealnymi do zastosowania w urządzeniach IoT. Systemy wbudowane mogą być używane do różnych celów, w tym do zbierania danych, sterowania urządzeniami i przetwarzania danych.
