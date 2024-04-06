@@ -70,3 +70,37 @@ Systemy wbudowane IoT mogą być używane do różnych celów, m.in .:
 * **Przetwarzanie danych:** Systemy wbudowane mogą być używane do przetwarzania danych zebranych z czujników lub innych urządzeń. Dane te mogą być następnie wykorzystywane do różnych celów, takich jak generowanie raportów lub podejmowanie decyzji.
 
 Systemy wbudowane są ważną częścią Internetu Rzeczy. Są małe, wydajne i niedrogie, co czyni je idealnymi do zastosowania w urządzeniach IoT. Systemy wbudowane mogą być używane do różnych celów, w tym do zbierania danych, sterowania urządzeniami i przetwarzania danych.
+
+## Interfejsy komunikacyjne w systemach wbudowanych
+
+Interfejsy komunikacyjne są niezbędne do komunikacji systemów wbudowanych z innymi urządzeniami, systemami i użytkownikami. Istnieje wiele różnych typów interfejsów komunikacyjnych, z których każdy ma swoje zalety i wady.
+
+**Typowe interfejsy komunikacyjne w systemach wbudowanych obejmują:**
+
+* **Interfejsy szeregowe:**
+
+    * **UART:** Uniwersalny asynchroniczny odbiornik-nadajnik (UART) jest powszechnym interfejsem szeregowym używanym do komunikacji z urządzeniami peryferyjnymi, takimi jak wyświetlacze LCD i klawiatury.
+    * **I2C:** Inter-Integrated Circuit (I2C) to dwuprzewodowy interfejs szeregowy używany do komunikacji między układami scalonymi.
+    * **SPI:** Serial Peripheral Interface (SPI) to czteroprzewodowy interfejs szeregowy używany do komunikacji z urządzeniami peryferyjnymi, takimi jak pamięć flash i konwertery analogowo-cyfrowe.
+
+* **Interfejsy równoległe:**
+
+    * **GPIO:** General-Purpose Input/Output (GPIO) to interfejs równoległy, który może być używany do sterowania diodami LED, przełącznikami i innymi urządzeniami peryferyjnymi.
+
+* **Interfejsy sieciowe:**
+
+    * **Ethernet:** Ethernet to standardowy interfejs sieciowy używany do łączenia systemów wbudowanych z sieciami lokalnymi i internetem.
+    * **Wi-Fi:** Wi-Fi to bezprzewodowy interfejs sieciowy używany do łączenia systemów wbudowanych z sieciami lokalnymi i internetem.
+    * **Bluetooth:** Bluetooth to bezprzewodowy interfejs sieciowy krótkiego zasięgu używany do łączenia systemów wbudowanych z innymi urządzeniami, takimi jak smartfony i tablety.
+
+**Wybór odpowiedniego interfejsu komunikacyjnego dla danego zastosowania zależy od kilku czynników, takich jak:**
+
+* **Szybkość transmisji danych:** Niektóre interfejsy komunikacyjne są szybsze od innych. Na przykład Ethernet jest szybszy niż I2C.
+* **Zasięg:** Niektóre interfejsy komunikacyjne mają większy zasięg niż inne. Na przykład Wi-Fi ma większy zasięg niż Bluetooth.
+* **Koszt:** Niektóre interfejsy komunikacyjne są droższe od innych. Na przykład Ethernet jest droższy niż GPIO.
+* **Złożoność:** Niektóre interfejsy komunikacyjne są bardziej złożone niż inne. Na przykład Ethernet jest bardziej złożony niż GPIO.
+
+Ważne jest, aby wybrać odpowiedni interfejs komunikacyjny dla danego zastosowania, aby zapewnić niezawodną i wydajną komunikację.
+
+
+
